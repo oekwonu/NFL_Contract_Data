@@ -1,5 +1,5 @@
 # College Draft History & NFL Player Data
-This app displays data from NFL contracts up to the 2022 season.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nfl-data.streamlit.app/)
 
 ## Introduction
 This Streamlit dashboard enables users to view and explore NCAA Draft History and NFL Player Data.
