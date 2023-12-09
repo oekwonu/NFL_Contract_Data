@@ -35,4 +35,4 @@ with tab2:
     player_list = st.sidebar.multiselect("Select Player(s):", nfl_df['Player'])
     filtered_player_list = nfl_df[nfl_df['Player'].isin(player_list)]
 
-    st.dataframe(filtered_player_list, use_container_width= True, column_order=("Player", "College", "Position", "Value", "Year Signed", "Team", "Years") )
+    st.dataframe(filtered_player_list, use_container_width= True, column_order=("Player", "College", "Position", "Value", "Year Signed", "Team", "Years", "Draft Year", "Draft Team", "Draft Round", "Draft Overall") )
