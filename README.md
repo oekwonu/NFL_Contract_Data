@@ -4,17 +4,17 @@
 ## **Introduction**
 This Streamlit dashboard enables users to view and explore NCAA Draft History and NFL Player Data.
 
-The Draft History portion of this dashboard allows users to view:
+The **Draft History** portion of this dashboard allows users to view:
 - Draft History by College(s) Selected
 - Bar Chart Visualization scaling Total # of Draft Picks by College
 
-The NFL Player Data portion of this dashboard allows users to view:
+The **NFL Player Data** portion of this dashboard allows users to view:
 - Contract Information of Player(s) Selected
 - Draft Information
 
-## **__Data Source__**
+## **Data Source**
 The Data used in this app was pulled from this source:
-- [![Contract Data](https://github.com/nflverse/nflverse-data/releases?page=2)
+- [Contract Data](https://github.com/nflverse/nflverse-data/releases?page=2)
 
 ## Future Usage
 With annual updates to the datasource, this app can continue to be used to view and compare:
