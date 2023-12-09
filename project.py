@@ -10,7 +10,7 @@ st.title("NFL & Collegiate Data")
 st.markdown(''' 
             Information about NCAA Draft History, NFL Players + Contracts.
             
-            *Data from 2022*
+            *Updated 2022*
             ''')
 
 tab1, tab2= st.tabs(['College Draft Data', 'NFL Player + Contract Data'])
