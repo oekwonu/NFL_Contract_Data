@@ -11,6 +11,8 @@ st.markdown('''
             Information about NCAA Draft History, NFL Players + Contracts.
             
             *Updated 2022*
+
+            Created by Ositadinma Ekwonu
             ''')
 
 tab1, tab2= st.tabs(['College Draft Data', 'NFL Player + Contract Data'])
